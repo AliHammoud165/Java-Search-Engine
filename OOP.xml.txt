@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<general_knowledge>
+  <category name="Science">
+    <fact>The Earth revolves around the Sun.</fact>
+    <fact>Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level.</fact>
+    <fact>Gravity is the force that attracts objects toward each other.</fact>
+    <fact>Cells are the basic building blocks of life.</fact>
+    <fact>The speed of light in a vacuum is approximately 299,792 kilometers per second.</fact>
+  </category>
+</general_knowledge>
